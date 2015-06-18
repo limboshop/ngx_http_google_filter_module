@@ -1,9 +1,13 @@
-###安装编译及安装nginx模块中文简易教程：
-http://story.limboshop.info/2015/06/17/free-search-project/　
+
+![](http://i.imgur.com/TAmygLm.jpg)
+###编译及安装nginx-4-google-mirror-module-中文简易教程：  
+http://story.limboshop.info/2015/06/17/free-search-project/  　
 ######配置nginx文件（指向域名，绑定SSL等）
-参考[nginx.conf](https://github.com/limboshop/ngx_http_google_filter_module/blob/master/nginx.conf)  
+参考 [nginx.conf](https://github.com/limboshop/ngx_http_google_filter_module/blob/master/nginx.conf)  
 更多相关配置请参阅项目wiki，如有疑问请提交 issues!  
-中文教程Demo:// https://s.limboshop.info
+中文教程Demo:// https://s.limboshop.info  
+
+![](http://i.imgur.com/6euaDOm.png)
 
 ####／／／下面是原作者说明／／／Nginx Module for Google
 =======================
