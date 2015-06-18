@@ -1,4 +1,4 @@
-#这是一份包括自定义域名和绑定ssl的完整nginx.conf配置说明
+
 #user  nobody;
 worker_processes  1;
 
