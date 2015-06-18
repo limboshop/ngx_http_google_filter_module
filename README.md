@@ -1,6 +1,7 @@
 
-![](http://i.imgur.com/TAmygLm.jpg)
-本项目folkの主旨，以更简单的方式搭建谷歌镜像站服务，适合每一位拥有VPS的亲故。开趴～！
+![](http://i.imgur.com/TAmygLm.jpg)  
+
+PS:本项目folkの主旨，以更简单的方式搭建谷歌镜像站服务，适合每一位拥有VPS的亲故。感谢原作者～开趴～！
 ###编译及安装nginx-4-google-mirror-module-中文简易教程：  
 http://story.limboshop.info/2015/06/17/free-search-project/  　
 ######配置nginx文件（指向域名，绑定SSL等）
